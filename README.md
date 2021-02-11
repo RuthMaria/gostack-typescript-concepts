@@ -23,7 +23,7 @@
 
 ## :books: About
 
-Applied the TypeScript concepts and your main forms of static typing:
+Applied the TypeScript [concepts](https://www.notion.so/Typescript-5712aeab312d44fcba0aa88895caad36#0e4a91809828482da1afe8037a776125) and your main forms of static typing:
 - string
 - number
 - arrays
